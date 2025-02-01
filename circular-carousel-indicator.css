@@ -4,7 +4,7 @@
   border-radius: 50%;
   background-color: transparent;
   margin: 1px -1px;
-  border: 1px solid white;
+  border: 1px solid pink;
   opacity: 1;
   transition: border-color 0.3s ease;
 }
